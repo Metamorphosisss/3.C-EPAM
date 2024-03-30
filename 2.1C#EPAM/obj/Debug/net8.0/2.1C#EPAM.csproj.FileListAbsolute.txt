@@ -1,0 +1,15 @@
+C:\Users\MrKom\source\repos\Methods\2.1C#EPAM\2.1C#EPAM\bin\Debug\net8.0\2.1C#EPAM.exe
+C:\Users\MrKom\source\repos\Methods\2.1C#EPAM\2.1C#EPAM\bin\Debug\net8.0\2.1C#EPAM.deps.json
+C:\Users\MrKom\source\repos\Methods\2.1C#EPAM\2.1C#EPAM\bin\Debug\net8.0\2.1C#EPAM.runtimeconfig.json
+C:\Users\MrKom\source\repos\Methods\2.1C#EPAM\2.1C#EPAM\bin\Debug\net8.0\2.1C#EPAM.dll
+C:\Users\MrKom\source\repos\Methods\2.1C#EPAM\2.1C#EPAM\bin\Debug\net8.0\2.1C#EPAM.pdb
+C:\Users\MrKom\source\repos\Methods\2.1C#EPAM\2.1C#EPAM\obj\Debug\net8.0\2.1C#EPAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrKom\source\repos\Methods\2.1C#EPAM\2.1C#EPAM\obj\Debug\net8.0\2.1C#EPAM.AssemblyInfoInputs.cache
+C:\Users\MrKom\source\repos\Methods\2.1C#EPAM\2.1C#EPAM\obj\Debug\net8.0\2.1C#EPAM.AssemblyInfo.cs
+C:\Users\MrKom\source\repos\Methods\2.1C#EPAM\2.1C#EPAM\obj\Debug\net8.0\2.1C#EPAM.csproj.CoreCompileInputs.cache
+C:\Users\MrKom\source\repos\Methods\2.1C#EPAM\2.1C#EPAM\obj\Debug\net8.0\2.1C#EPAM.sourcelink.json
+C:\Users\MrKom\source\repos\Methods\2.1C#EPAM\2.1C#EPAM\obj\Debug\net8.0\2.1C#EPAM.dll
+C:\Users\MrKom\source\repos\Methods\2.1C#EPAM\2.1C#EPAM\obj\Debug\net8.0\refint\2.1C#EPAM.dll
+C:\Users\MrKom\source\repos\Methods\2.1C#EPAM\2.1C#EPAM\obj\Debug\net8.0\2.1C#EPAM.pdb
+C:\Users\MrKom\source\repos\Methods\2.1C#EPAM\2.1C#EPAM\obj\Debug\net8.0\2.1C#EPAM.genruntimeconfig.cache
+C:\Users\MrKom\source\repos\Methods\2.1C#EPAM\2.1C#EPAM\obj\Debug\net8.0\ref\2.1C#EPAM.dll
